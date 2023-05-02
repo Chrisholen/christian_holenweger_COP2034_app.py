@@ -15,12 +15,3 @@ st.write("Due Date: 05/03/2023")
 
 # File uploader
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
-
-# Get the path to the image file
-image_path = os.path.join(os.getcwd(), "image", "fau_owl.png")
-
-# Load the image
-image = Image.open(image_path)
-
-# Display the image
-st.image(image, caption='FAU Owl Logo', use_column_width=True)
