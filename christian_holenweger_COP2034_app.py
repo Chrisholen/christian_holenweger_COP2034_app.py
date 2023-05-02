@@ -10,6 +10,22 @@ st.sidebar.title("Filters on Filters")
 st.sidebar.write("This is a app that lets the user change how an uploaded image looks by using filters to change the apperence.!")
 st.sidebar.write("Web App created using Python Streamlit library. this app supports ('jpg','png','jpeg')")
 
+# FAU owl logo
+from PIL import Image
+image = Image.open('fau-owl.png')
+st.sidebar.image(image, caption='', use_column_width=True)
+
+# File uploader to upload an image
+uploaded_file = st.file_uploader("Choose an image...", type="jpg")
+
+if uploaded_file is not None:
+    image = Image.open(uploaded_file)
+    st.image(image, caption='Uploaded Image.', use_column_width=True)
+
+
+
+
+
 DATE_COLUMN = 'date/time'
 DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
             'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
