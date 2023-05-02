@@ -4,24 +4,25 @@ import io
 
 import streamlit as st
 
-# Set up the app title and description
+# App Name and Description
+st.sidebar.title("Filters on filters")
+st.sidebar.write("This is a app that lets the user change how an uploaded image looks by using filters to change the apperence.")
+st.sidebar.write("Web App created using Python Streamlit library. This app supports ('jpg','png',jpeg') files!")
+
+# Full Name, Project, and Due Date
 st.title("Filters on filters")
-st.sidebar.write("Web App created using Python Streamlit library. This app supports ('jpg','png',jpeg') files!.")
+st.write("Created by: Chrisitan Holenweger")
+st.write("Project: Filters on Filters")
+st.write("Due Date: 05/03/2023")
 
-# Set up the center column with Name, Project, and Due Date
-st.header("Name: Christian Holenweger")
-st.header("Project: Filter Changer")
-st.header("Due Date: May 3, 2023")
+# FAU owl logo
+from PIL import Image
+image = Image.open('fau-owl.png')
+st.sidebar.image(image, caption='', use_column_width=True)
 
-# Set up the right column with the FAU owl logo
-image = "https://www.fau.edu/president/assets/images/owl.svg"
-st.sidebar.image(image, use_column_width=True)
+# File uploader to upload an image
+uploaded_file = st.file_uploader("Choose an image...", type="jpg")
 
-# Set up the file uploader for images
-uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
-
-# Check if a file was uploaded and display it if so
 if uploaded_file is not None:
-    st.image(uploaded_file, caption="Uploaded Image", use_column_width=True)
-else:
-    st.write("Please upload an image.")
+    image = Image.open(uploaded_file)
+    st.image(image, caption='Uploaded Image.', use_column_width=True)
