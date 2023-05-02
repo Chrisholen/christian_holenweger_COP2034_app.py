@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 from PIL import Image
 import cv2
+import sys
+sys.path.append('\env\Lib\site-packages')
 
 st.title('Christian Holenweger')
 st.title('Final Project COP2034')
