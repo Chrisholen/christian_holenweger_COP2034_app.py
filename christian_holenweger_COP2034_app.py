@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+from PIL import Image
 
 st.title('Christian Holenweger')
 st.title('Final Project COP2034')
@@ -11,8 +12,7 @@ st.sidebar.write("This is a app that lets the user change how an uploaded image 
 st.sidebar.write("Web App created using Python Streamlit library. this app supports ('jpg','png','jpeg')")
 
 # FAU owl logo
-from PIL import Image
-image = Image.open('fau-owl.png')
+image = Image.open('fau_owl.png')
 st.sidebar.image(image, caption='', use_column_width=True)
 
 # File uploader to upload an image
