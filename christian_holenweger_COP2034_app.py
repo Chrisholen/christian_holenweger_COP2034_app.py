@@ -11,60 +11,17 @@ st.sidebar.title("Filters on Filters")
 st.sidebar.write("This is a app that lets the user change how an uploaded image looks by using filters to change the apperence.!")
 st.sidebar.write("Web App created using Python Streamlit library. this app supports ('jpg','png','jpeg')")
 
-text_contents = '''
-Foo, Bar
-123, 456
-789, 000
-'''
+# Set page title
+st.set_page_config(page_title="Image Uploader")
 
-st.download_button('Download CSV', text_contents, 'text/csv')
-st.download_button('Download CSV', text_contents)  # Defaults to 'text/plain'
+# Set page header
+st.title("Image Uploader")
 
-with open('fau_owl.png.csv') as f:
-   st.download_button('Download CSV', f)  # Defaults to 'text/plain'
+# Create an upload button
+uploaded_file = st.file_uploader("Choose an image file", type=["jpg", "jpeg", "png"])
 
-# FAU owl logo
-image = Image.open('fau_owl.png')
-st.sidebar.image(image, caption='', use_column_width=True)
-
-# File uploader to upload an image
-uploaded_file = st.file_uploader("Choose an image...", type="jpg")
-
+# Display the uploaded image
 if uploaded_file is not None:
     image = Image.open(uploaded_file)
-    st.image(image, caption='Uploaded Image.', use_column_width=True)
+    st.image(image, caption="Uploaded image")
 
-
-
-
-
-DATE_COLUMN = 'date/time'
-DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
-            'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
-
-@st.cache_data
-def load_data(nrows):
-    data = pd.read_csv(DATA_URL, nrows=nrows)
-    lowercase = lambda x: str(x).lower()
-    data.rename(lowercase, axis='columns', inplace=True)
-    data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
-    return data
-
-data_load_state = st.text('Loading data...')
-data = load_data(10000)
-data_load_state.text("Done! (using st.cache_data)")
-
-if st.checkbox('Show raw data'):
-    st.subheader('Raw data')
-    st.write(data)
-
-st.subheader('Number of pickups by hour')
-hist_values = np.histogram(data[DATE_COLUMN].dt.hour, bins=24, range=(0,24))[0]
-st.bar_chart(hist_values)
-
-# Some number in the range 0-23
-hour_to_filter = st.slider('hour', 0, 23, 17)
-filtered_data = data[data[DATE_COLUMN].dt.hour == hour_to_filter]
-
-st.subheader('Map of all pickups at %s:00' % hour_to_filter)
-st.map(filtered_data)
