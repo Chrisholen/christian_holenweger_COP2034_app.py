@@ -15,7 +15,7 @@ st.write("Project: Filters on Filters")
 st.write("Due Date: 05/03/2023")
 
 # FAU owl logo
-image = Image.open('fau-owl.png')
+image = Image.open('fau_owl.png')
 st.sidebar.image(image, caption='', use_column_width=True)
 
 # File uploader to upload an image
