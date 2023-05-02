@@ -16,10 +16,8 @@ st.title("Due Date: 05/03/2023")
 # File uploader
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
 
-# Set the file path to the FAU logo PNG file in your pictures directory
-file_path = "C:/Users/Christian Holenweger/Pictures/FAU logo.PNG"
-
-# Use PIL to open the image file
+# Load the FAU logo image from file
+file_path = r"C:\Users\Christian Holenweger\Pictures\FAU logo.PNG"
 image = Image.open(file_path)
 
 # Display the image in Streamlit
