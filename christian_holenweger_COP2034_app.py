@@ -11,6 +11,12 @@ st.sidebar.title("Filters on Filters")
 st.sidebar.write("This is a app that lets the user change how an uploaded image looks by using filters to change the apperence.!")
 st.sidebar.write("Web App created using Python Streamlit library. this app supports ('jpg','png','jpeg')")
 
+st.download_button('Download CSV', text_contents, 'text/csv')
+st.download_button('Download CSV', text_contents)  # Defaults to 'text/plain'
+
+with open('fau_owl.png.csv') as f:
+   st.download_button('Download CSV', f)  # Defaults to 'text/plain'
+
 # FAU owl logo
 image = Image.open('fau_owl.png')
 st.sidebar.image(image, caption='', use_column_width=True)
