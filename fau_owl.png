@@ -1,0 +1,623 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />		
+   <meta name="description" content=""/>
+   
+   <title>Visual Standards  | Florida Atlantic University</title>
+   <meta property="og:title" content="Visual Standards "/>
+   <meta property="og:type" content="website"/>
+   <meta property="og:description" content=""/>
+   <meta property="og:url"
+          content="https://www.fau.edu/public-affairs/branding/visual-standards/index.php"/>
+   <meta property="og:site_name" content="Florida Atlantic University"/>
+   <meta property="og:locale" content="en_US"/>
+   <meta property="og:image"
+          content="https://www.fau.edu/images/social/default.jpg"/>
+   <meta name="twitter:card" content="summary"/>
+   <meta name="twitter:site" content="@FloridaAtlantic"/>
+   <meta name="twitter:title" content="Visual Standards "/>
+   <meta name="twitter:description" content=""/>
+   <meta name="twitter:image"
+          content="https://www.fau.edu/images/social/default.jpg"/>
+   <link rel="canonical"
+          href="https://www.fau.edu/public-affairs/branding/visual-standards/"/>
+   <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-K8QZ6S');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Analytics -->
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-3936766-1', 'auto');ga('send', 'pageview');</script>
+<!-- End Google Analytics -->   <link rel="apple-touch-icon" sizes="57x57" href="https://www.fau.edu/images/favicons/apple-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.fau.edu/images/favicons/apple-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.fau.edu/images/favicons/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.fau.edu/images/favicons/apple-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.fau.edu/images/favicons/apple-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.fau.edu/images/favicons/apple-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.fau.edu/images/favicons/apple-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.fau.edu/images/favicons/apple-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.fau.edu/images/favicons/apple-icon-180x180.png" />
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.fau.edu/images/favicons/android-icon-192x192.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.fau.edu/images/favicons/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.fau.edu/images/favicons/favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.fau.edu/images/favicons/favicon-16x16.png" />
+<link rel="shortcut icon" href="https://www.fau.edu/images/homepage/favicon.ico" />
+<link rel="manifest" href="https://www.fau.edu/images/favicons/manifest.json" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="https://www.fau.edu/images/favicons/ms-icon-144x144.png" />
+<meta name="theme-color" content="#ffffff" />
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/weathericons@2.1.0/css/weather-icons.min.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/lity@2.4.0/dist/lity.min.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+<link rel="stylesheet" href="https://www.fau.edu/css/emergency-alerts.css?t=1683015435" />
+<link rel="stylesheet" href="https://www.fau.edu/css/style.css?t=1683015435" />
+
+<script src="https://www.fau.edu/dist/jquery-3.6.1.min.js"></script>
+<script src="https://www.fau.edu/dist/bootstrap.min.js"></script>
+<script src="https://www.fau.edu/dist/popper.min.js"></script>
+<script src="https://www.fau.edu/dist/lity.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/slick-carousel@1.9.0/slick/slick.min.js"></script>
+<script src="https://www.fau.edu/_resources/js/rave-alerts.js?t=1683015435" async></script>
+<script src="https://www.fau.edu/dist/homepage.js?t=1683015435" async></script>
+
+   <style type="text/css">
+		.logo-mark { display: block;height: 100%;width: 250px;margin: 0 auto;object-fit: contain; }
+		.marks p { text-align: center;text-transform: uppercase; }
+		.square { display: flex;flex-direction: column;align-items: flex-start;grid-gap: 2rem;margin-bottom: 4rem;padding-bottom: 2rem;border-bottom: 1px solid #036; }
+		.square:last-child { border: none; }
+		.square .box { display: inline-block;width: 150px;height: 150px; }
+		.square .detail { font-size: 16px; }
+		.square .blue { background: #036; }
+		.square .red { background: #c00; }
+		.square .silver { background: #8a8d8f; }
+		.square .gray { background: #ccc; }
+		
+		@media screen and (min-width: 576px) {
+			.square { flex-direction: row;align-items: center;margin-bottom: 2rem;padding-bottom: 0;border: none; }
+		}
+	</style>
+</head>
+<body class="faucontent page-wide">
+   <div class="outer-wrapper">
+      <div class="inner-wrapper">
+         <header>
+            <div class="topheader"><nav class="navbar top-nav navbar-expand-lg">
+	<div class="section">
+		<div class="navbar-brand">
+			<div class="logo">
+				<a href="/"><img src="https://www.fau.edu/images/homepage/owlhead-logo.png" class="w-100" alt="FAU Logo" /></a>
+			</div>
+			<div class="title">
+				<a href="/">FLORIDA ATLANTIC UNIVERSITY</a>
+			</div>
+		</div>
+		<div class="toggle-bar">
+			<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNavTop, #navbarNavMain, #navbarNavMenu" aria-controls="navbarNavTop" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="icon-bar top-bar"></span>
+				<span class="icon-bar middle-bar"></span>
+				<span class="icon-bar bottom-bar"></span>	
+			</button>
+		</div>
+		<div class="collapse navbar-collapse" id="navbarNavTop">
+			<div class="navbar-nav ml-auto">
+				<div class="links toUpperCase">
+					<ul class="persona">
+						<li><a href="https://www.fau.edu/about/students/"><span>students</span></a></li>
+						<li><a href="https://www.fau.edu/about/faculty-staff/"><span>faculty/staff</span></a></li>
+						<li><a href="https://www.fau.edu/about/alumni/"><span>alumni</span></a></li>
+						<li><a href="https://www.fau.edu/about/families/"><span>families</span></a></li>
+					</ul>
+					<div class="buttons">	
+						<ul>
+							<li><a href="https://www.fau.edu/apply-now/">apply</a></li>
+							<li><a href="https://www.fau.edu/visit/">visit</a></li>
+							<li><a href="https://fauf.fau.edu/giveagift" class="give">give</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</nav>               <nav class="navbar main-nav row-nav navbar-expand-lg">
+                  <div class="section">
+                     <div class="navbar-collapse collapse row-menu row-main" id="navbarNavMain">
+                        <div class="col-xl-9 col-lg-8 col-md-12">
+                           <ul class="fau-breadcrumb">
+                              <li>
+                                 <a href="/">FAU Home</a>
+                              </li>
+                              <li>
+                                 <a href="/public-affairs/">Division of Public Affairs</a>
+                              </li>
+                              <li>
+                                 <a href="/public-affairs/branding/">Branding</a>
+                              </li>
+                              <li class="active">Visual Standards </li>
+                           </ul>
+                        </div>
+                        <div class="nav-search d-flex col"><form action="/search" class="flex-grow-1" name="search" method="get">
+	<input type="search" name="q" id="main-navigation__search" aria-label="Site Search" placeholder="Search FAU" title="Site Search" />
+	<button aria-label="Search">
+		<span class="fa fa-search" style="font-weight: 300;"></span>
+	</button>
+</form>
+<div class="site-menu button">
+	<div class="toggle"></div>
+	<span class="menu">MENU</span>
+</div></div>
+                     </div>
+                  </div>
+               </nav>
+               
+<nav class="navbar menu-nav row-nav navbar-expand-lg">
+<div class="section">
+<div id="navbarNavMenu" class="navbar-collapse menu-container collapse">
+<div id="firstrow" class="row no-gutters">
+<div class="col d-flex flex-column justify-content-between">
+<div class="menu-navigation">
+<div id="column1" class="heading collapsed" aria-expanded="false" href="#col1" aria-controls="col1">ABOUT</div>
+<div id="col1" class="panel-collapse in collapse" role="tabpanel" data-parent="#firstrow" aria-labelledby="column1">
+<ul class="menu-items">
+<li><a href="/public-affairs/about/">About Us</a></li>
+<li><a href="/public-affairs/about/contact-us/">Contact Us</a></li>
+<li><a href="/public-affairs/about/client-meetings/">Client Meetings</a></li>
+<li><a href="/public-affairs/about/portfolio/">Portfolio</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col d-flex flex-column justify-content-between">
+<div class="menu-navigation">
+<div id="column2" class="heading collapsed" aria-expanded="false" href="#col2" aria-controls="col2">BRANDING</div>
+<div id="col2" class="panel-collapse in collapse" role="tabpanel" data-parent="#firstrow" aria-labelledby="column2">
+<ul class="menu-items">
+<li><a href="/public-affairs/branding/">Overview</a></li>
+<li><a href="/public-affairs/branding/quick-facts/">Quick Facts</a></li>
+<li><a href="/public-affairs/branding/visual-standards/">Visual Standards</a></li>
+<li><a href="/public-affairs/branding/messaging-standards/">Messaging Standards</a></li>
+<li><a href="/public-affairs/branding/editorial-standards/">Editorial Standards</a></li>
+<li><a href="/public-affairs/branding/downloads/">Downloads</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col d-flex flex-column justify-content-between">
+<div class="menu-navigation">
+<div id="column3" class="heading collapsed" aria-expanded="false" href="#col3" aria-controls="col3">DESIGN</div>
+<div id="col3" class="panel-collapse in collapse" role="tabpanel" data-parent="#firstrow" aria-labelledby="column3">
+<ul class="menu-items">
+<li><a href="/public-affairs/design/">Overview</a></li>
+<li><a href="/public-affairs/design/design-consultation/">Design Consultation</a></li>
+<li><a href="/public-affairs/design/get-started/">Get Started</a></li>
+<li><a href="/public-affairs/design/approval-process/">Approval Process</a></li>
+<li><a href="/public-affairs/documents/visual-standards-manual.pdf">Visual Standards</a></li>
+<li><a href="/public-affairs/design/project-timelines/">Project Timelines</a></li>
+</ul>
+	</div>
+</div>
+</div>
+<div class="col d-flex flex-column justify-content-between">
+<div class="menu-navigation">
+<div id="column4" class="heading collapsed" aria-expanded="false" href="#col4" aria-controls="col4">VIDEO PRODUCTION</div>
+<div id="col4" class="panel-collapse in collapse" role="tabpanel" data-parent="#firstrow" aria-labelledby="column4">
+<ul class="menu-items">
+<li><a href="/public-affairs/video-production/">Overview</a></li>
+<li><a href="/public-affairs/video-production/cost-structure/">Cost Structure</a></li>
+<li><a href="/public-affairs/video-production/approval-process/">Approval Process</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col d-flex flex-column justify-content-between">
+<div class="menu-navigation">
+<div id="column5" class="heading collapsed" aria-expanded="false" href="#col5" aria-controls="col5">WEB DEVELOPMENT</div>
+<div id="col5" class="panel-collapse in collapse" role="tabpanel" data-parent="#firstrow" aria-labelledby="column5">
+<ul class="menu-items">
+<li><a href="/public-affairs/web-development/">Overview</a></li>
+<li><a href="/public-affairs/web-development/web-best-practices/">Web Best Practices</a></li>
+<li><a href="https://www.fau.edu/styleguide/">Web Style Guide</a></li>
+<li><a href="/public-affairs/web-development/development-guides/">Development Guides</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col d-flex flex-column justify-content-between">
+<div class="menu-navigation">
+<div id="column6" class="heading collapsed" aria-expanded="false" href="#col6" aria-controls="col6">PHOTOGRAPHY</div>
+<div id="col6" class="panel-collapse in collapse" role="tabpanel" data-parent="#firstrow" aria-labelledby="column6">
+<ul class="menu-items">
+<li><a href="/public-affairs/photography/">Overview</a></li>
+<!-- <li><a href="/public-affairs/photography/photoshoot-planning/">Photoshoot Planning</a></li> -->
+<li><a href="/public-affairs/photography/release-forms/">Release Forms</a></li>
+<li><a href="/public-affairs/photography/photo-selection-guide/">Photo Selection Guide</a></li>
+<li><a href="/public-affairs/photography/faculty-and-staff-portraits/">Faculty and Staff Portraits</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col d-flex flex-column justify-content-between">
+<div class="menu-navigation">
+<div id="column7" class="heading collapsed" aria-expanded="false" href="#col7" aria-controls="col7">MARKETING SERVICES</div>
+<div id="col7" class="panel-collapse in collapse" role="tabpanel" data-parent="#firstrow" aria-labelledby="column7">
+<ul class="menu-items">
+<li><a href="/public-affairs/marketing-services/">Overview</a></li>
+<li><a href="/public-affairs/marketing-services/advertising-at-fau/">Advertising at FAU</a></li>
+<li><a href="/public-affairs/marketing-services/filming-at-fau/">Filming at FAU</a></li>
+<li><a href="/public-affairs/marketing-services/branded-event-materials/">Branded Event Materials</a></li>
+<li><a href="/public-affairs/marketing-services/digital-marketing/">Digital Marketing</a></li>
+<li><a href="/public-affairs/marketing-services/internal-communications/">Internal Communications</a></li>
+<li><a href="/public-affairs/marketing-services/social-media/">Social Media</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- <div class="col d-flex flex-column justify-content-between">
+<div class="menu-navigation">
+<div id="column8" class="heading collapsed" aria-expanded="false" href="#col8" aria-controls="col8">INTERNAL COMMUNICATIONS</div>
+<div id="col8" class="panel-collapse in collapse" role="tabpanel" data-parent="#firstrow" aria-labelledby="column8">
+<ul class="menu-items">
+<li><a href="/public-affairs/internal-communications/">Overview</a></li>
+<li><a href="/public-affairs/internal-communications/presidential-communications/">Presidential Communications</a></li>
+<li><a href="/public-affairs/internal-communications/advancement-system-emails/">Advancement System Emails</a></li>
+</ul>
+</div>
+</div>
+</div> -->
+<div class="col d-flex flex-column justify-content-between">
+<div class="menu-navigation">
+<div id="column8" class="heading collapsed" aria-expanded="false" href="#col8" aria-controls="col8">MEDIA RELATIONS</div>
+<div id="col8" class="panel-collapse in collapse" role="tabpanel" data-parent="#firstrow" aria-labelledby="column8">
+<ul class="menu-items">
+<li><a href="/public-affairs/media-relations/">Overview</a></li>
+<li><a href="/public-affairs/media-relations/policies/">Policies</a></li>
+<li><a href="https://www.fau.edu/newsdesk/">News Desk</a></li>
+<li><a href="https://www.fau.edu/experts/">Experts Database</a></li>
+<li><a href="/public-affairs/media-relations/public-records/">Public Records</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col d-flex flex-column justify-content-between">
+<div class="menu-navigation">
+<div id="column9" class="heading collapsed" aria-expanded="false" href="#col9" aria-controls="col9">RETAIL AND LICENSING</div>
+<div id="col9" class="panel-collapse in collapse" role="tabpanel" data-parent="#firstrow" aria-labelledby="column9">
+<ul class="menu-items">
+<li><a href="/public-affairs/retail-and-licensing/">Overview</a></li>
+<li><a href="/public-affairs/retail-and-licensing/looking-for-new-gear/">Looking for New Gear</a></li>
+<li><a href="/public-affairs/retail-and-licensing/trademark-guidelines/">Trademark Guidelines</a></li>
+<li><a href="/public-affairs/retail-and-licensing/become-a-licensee/">Become A Licensee</a></li>
+<li><a href="/public-affairs/retail-and-licensing/need-to-purchase-promotional-items/">Order Promotional Items</a></li>
+<li><a href="https://www.bkstr.com/faustore/home">Link to FAU Gear</a></li>
+<li><a href="/public-affairs/retail-and-licensing/enforcement/">Enforcement</a></li>
+<li><a href="/public-affairs/retail-and-licensing/faq/">FAQ</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>            </div>
+            <div id="oualerts-container"><!--Alert will display here when active.--></div>
+            <div class="site-badge section"><a href="/public-affairs/"><span class="color--blue">Division of Public Affairs</span></a></div>
+         </header>
+         <main role="main" aria-label="main">
+            <div class="content">
+               <section id="section1">
+                  <div class="section">
+                     <div class="">
+                        <div class="row">
+                           <div class="col-lg-4">	<style>
+		.side-menu .links .link { align-items: center; }
+		.side-menu .link .file-icon { margin-left: 10px;font-size: 22px;transform: translateY(1px);transition: all 150ms linear; }
+		.side-menu .link .file-icon.pdf { color: #c00; }
+		.side-menu .link .file-icon.word { color: #2273e1; }
+		.side-menu .link .file-icon.text { color: #000; }
+		.side-menu .link .file-icon.excel { color: #4caf50; }
+		.side-menu .link .file-icon.powerp { color: #D04423; }
+		.side-menu .link a:hover .file-icon { transform: translateY(-1px); }
+	</style>
+	<script type="text/javascript">
+		$(document).ready(function() {			
+			$(".side-menu .links li.active").parents("li").addClass("active");
+			$(".side-menu .links li.active").children(".link").children(".icon").children(".arrow").removeClass("open");
+			
+			$(".arrow").click(function(){
+				if($(this).hasClass("open")){
+					$(this).removeClass("open");
+					$(this).parent().parent().parent().find("ul").first().show();
+				} else {
+					$(this).addClass("open");
+					$(this).parent().parent().parent().find("ul").first().hide();
+				}
+			});
+			$(".t-link").click(function(e){
+				link = $(this);
+				if(link.attr("href") == "#") {
+					e.preventDefault();
+				}
+				dropdown = link.next(".icon").children(".arrow");
+				if(dropdown.hasClass("open")){
+					dropdown.removeClass("open");
+					link.parent().parent().find("ul").first().show();
+				} else {
+					dropdown.addClass("open");
+					link.parent().parent().find("ul").first().hide();
+				}
+			});
+			
+			$(".side-menu .heading").click(function(){
+				$(this).toggleClass("open");
+			});
+		});
+	</script>
+<div class="side-menu"><div class="heading">SUB MENU</div><div class="links"><ul><li class=""><div class="link"><a class="flex-grow-1 t-link " href="/public-affairs/branding/" >Branding</a></div><ul><li class=""><div class="link"><a href="/public-affairs/branding/quick-facts/" class="flex-grow-1 flex-grow-1 " >Quick Facts</a></div></li><li class="active"><div class="link"><a href="/public-affairs/branding/visual-standards/" class="flex-grow-1 flex-grow-1 active" >Visual Standards</a></div></li><li class=""><div class="link"><a href="/public-affairs/branding/messaging-standards/" class="flex-grow-1 flex-grow-1 " >Messaging Standards</a></div></li><li class=""><div class="link"><a href="/public-affairs/branding/editorial-standards/" class="flex-grow-1 flex-grow-1 " >Editorial Standards</a></div></li><li class=""><div class="link"><a href="/public-affairs/branding/boilerplate/" class="flex-grow-1 flex-grow-1 " >Boilerplates</a></div></li><li class=""><div class="link"><a href="/public-affairs/branding/downloads/" class="flex-grow-1 flex-grow-1 " >Downloads</a></div></li></ul></li></ul></div></div></div>
+                           <div class="isMobile margin--top--20"> </div>
+                           <div class="col-lg-8">
+                              <section id="section">
+                                 <div>
+                                    <div class="">
+		
+                                       <h1>Visual Brand</h1>
+                                       <p>Our visual brand is how we consistently identify ourselves. </p>
+                                       <p>
+                                          <a class="button bold"
+                                              href="/public-affairs/documents/visual-standards-manual.pdf"
+                                              target="_blank"
+                                              rel="noopener">View Complete Manual</a>
+                                       </p>
+                                       <p> </p>
+                                       <h2>The FAU Wordmark</h2>
+                                       <p>The Florida Atlantic University logo features a depiction of a wave inside the letter “A.” This wave is a tribute to an important part of our name: <em>Atlantic</em>. The proximity of all our campuses to the Atlantic Ocean is part of FAU’s cultural DNA. The ocean is not only an important element of the South Florida culture but also the subject of many fields of specialized study at FAU. The wave also represents energy and forward motion. The acclaimed faculty and staff and dedicated students at FAU are part of a “wave of the future.”</p>
+                                       <div class="row marks">
+                                          <div class="col-lg-6 mb-5">
+                                             <img class="logo-mark"
+                                                   src="/public-affairs/images/wordmark.png"
+                                                   alt="FAU Wordmark"/>
+                                             <p>Wordmark</p>
+                                          </div>
+                                          <div class="col-lg-6 mb-5">
+                                             <img class="logo-mark"
+                                                   src="/public-affairs/images/initial-mark.png"
+                                                   alt="FAU Initial Mark"/>
+                                             <p>Initial Mark</p>
+                                          </div>
+                                       </div>
+                                       <p>
+                                          <br/>
+                                          <br/>
+                                       </p>
+                                       <h2>The FAU Spirit Logos</h2>
+                                       <p>The FAU spirit logos are the preferred marks to represent FAU and are also used as the University’s main athletic marks.</p>
+                                       <div class="row">
+                                          <div class="col-lg-4 mb-5">
+                                             <img class="logo-mark"
+                                                   src="/public-affairs/images/spirit-mark1.png"
+                                                   alt="FAU Logo 1"/>
+                                          </div>
+                                          <div class="col-lg-4 mb-5">
+                                             <img class="logo-mark"
+                                                   src="/public-affairs/images/spirit-mark2.png"
+                                                   alt="FAU Logo 2"/>
+                                          </div>
+                                          <div class="col-lg-4 mb-5">
+                                             <img class="logo-mark"
+                                                   src="/public-affairs/images/spirit-mark3.png"
+                                                   alt="FAU Logo 3"/>
+                                          </div>
+                                       </div>
+                                       <h2>The FAU Colors</h2>
+                                       <div class="square">
+                                          <span class="box blue"> </span>
+                                          <div>
+                                             <span>
+                                                <strong>FAU Blue</strong> – Wisdom, Trust, Atlantic</span>
+                                             <br/>
+                                             <span class="detail">PANTONE 295</span>
+                                             <br/>
+                                             <span class="detail">CMYK: 100C-78M-26Y-28K</span>
+                                             <br/>
+                                             <span class="detail">WEB SAFE/RGB: 003366</span>
+                                          </div>
+                                       </div>
+                                       <div class="square">
+                                          <span class="box red"> </span>
+                                          <div>
+                                             <span>
+                                                <strong>FAU Red</strong> – Boldness, Vibrancy, Spirit</span>
+                                             <br/>
+                                             <span class="detail">PANTONE 200</span>
+                                             <br/>
+                                             <span class="detail">CMYK: 20C-100M-81Y-10K</span>
+                                             <br/>
+                                             <span class="detail">WEB SAFE/RGB: CC0000</span>
+                                          </div>
+                                       </div>
+                                       <div class="square">
+                                          <span class="box silver"> </span>
+                                          <div>
+                                             <span>
+                                                <strong>FAU Silver</strong> – Dignity, Illumination</span>
+                                             <br/>
+                                             <span class="detail">PANTONE 877</span>
+                                             <br/>
+                                             <span class="detail">NO CMYK</span>
+                                             <br/>
+                                             <span class="detail">NO WEB SAFE/RGB</span>
+                                          </div>
+                                       </div>
+                                       <div class="square">
+                                          <span class="box gray"> </span>
+                                          <div>
+                                             <span>
+                                                <strong>FAU Gray</strong> – Formal, Intelligence</span>
+                                             <br/>
+                                             <span class="detail">PANTONE 428</span>
+                                             <br/>
+                                             <span class="detail">CMYK: 23C-16M-14Y-0K</span>
+                                             <br/>
+                                             <span class="detail">WEB SAFE/RGB: CCCCCC</span>
+                                          </div>
+                                       </div>
+                                       
+                                    </div>
+                                 </div>
+                              </section>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </section>
+                           </div>
+         </main>
+      </div>
+      
+      <!--footer-->
+<footer>
+	<div class="footer footer--wrapper">
+		<div class="section">
+			<div class="footer-grid">
+				<div class="footer-left">
+					<!--footer-logo-->
+					<div class="footer-logo">
+						<img src="https://www.fau.edu/images/homepage/owlhead-logo.png" alt="Florida Atlantic University" />
+					</div>
+					<!--//footer-logo-->
+					<!--address-->
+					<div class="footer-address mb-auto">
+						<div style="line-height: 1.3;">
+							<span>Florida Atlantic University</span><br />
+							<span>777 Glades Road</span><br />
+							<span>Boca Raton, FL</span> <span>33431</span>
+						</div>
+					</div>
+					<!--address-->
+				</div>
+				
+				<div id="accordion" class="row resources">
+					<div class="col-lg-4">
+						<!--campuses-->
+						<div class="footer-navigation">
+							<div id="campus" class="heading collapsed" role="button" data-target="#footerCampus" aria-expanded="false" aria-controls="footerCampus">Campuses</div>
+							<div id="footerCampus" class="panel-collapse collapse in" role="tabpanel" data-parent="#accordion" aria-labelledby="campus">
+								<ul class="footer-nav">
+									<li><a href="https://www.fau.edu/about/locations/">Boca Raton</a></li>
+									<li><a href="https://www.fau.edu/broward/about/dania-beach/">Dania Beach</a></li>
+									<li><a href="https://www.fau.edu/broward/about/davie/">Davie</a></li>
+									<li><a href="https://www.fau.edu/broward/about/fort-lauderdale/">Fort Lauderdale</a></li>
+									<li><a href="https://www.fau.edu/hboi/">Harbor Branch</a></li>
+									<li><a href="https://www.fau.edu/jupiter/">Jupiter</a></li>
+								</ul>
+							</div>
+						</div>
+						<!--//campuses-->
+					</div>
+					<div class="col-lg-4">
+						<!--resources-->
+						<div class="footer-navigation">
+							<div id="resources" class="heading collapsed" role="button" data-target="#footerResources" aria-expanded="false" aria-controls="footerResources">Resources</div>
+							<div id="footerResources" class="panel-collapse collapse in" role="tabpanel" data-parent="#accordion" aria-labelledby="resources">
+								<ul class="footer-nav">
+									<li><a href="https://www.fau.edu/registrar/calendar/">Academic Calendar</a></li>
+									<li><a href="https://www.fau.edu/jobs/">Employment Opportunities</a></li>
+									<li><a href="https://www.fau.edu/programs/">Program Search</a></li>
+									<li><a href="https://www.fau.edu/parking/">Parking</a></li>
+									<li><a href="https://www.fau.edu/report/">Report a Concern</a></li>
+									<li><a href="https://www.fau.edu/registrar/transcripts.php">Transcripts</a></li>
+								</ul>
+							</div>
+						</div>
+						<!--//resources-->
+					</div>
+					<div class="col-lg-4">
+						<!--resources-->
+						<div class="footer-navigation">
+							<div id="info" class="heading collapsed" role="button" data-target="#footerInfo" aria-expanded="false" aria-controls="footerInfo">Info</div>
+							<div id="footerInfo" class="panel-collapse collapse in" role="tabpanel" data-parent="#accordion" aria-labelledby="info">
+								<ul class="footer-nav">
+									<li><a href="https://www.fau.edu/about/contact/">Contact Us</a></li>
+									<li><a href="https://directory.fau.edu/">Directory</a></li>
+									<li><a href="https://www.fau.edu/emergency/">Emergency &amp; Safety</a></li>
+									<li><a href="https://www.fau.edu/education/school-and-k12-programs/">FAU Schools</a></li>
+									<li><a href="https://www.fau.edu/public-affairs/media-relations/guidelines/">Media</a></li>
+								</ul>
+							</div>
+						</div>
+						<!--//resources-->
+					</div>
+				</div>
+				
+				<!--social-->
+				<div class="footer-social">
+					<div class="heading">Social</div>
+					<div class="social-icons">
+						<div class="icon">
+							<a href="//www.facebook.com/FloridaAtlantic" target="_blank" rel="noreferrer" aria-label="FAU on Facebook">
+								<span class="fa fa-facebook" aria-hidden="true"></span>
+								<span class="hide">facebook</span>
+							</a>
+						</div>
+						<div class="icon">
+							<a href="//twitter.com/FloridaAtlantic" target="_blank" rel="noreferrer" aria-label="FAU on Twitter">
+								<span class="fa fa-twitter" aria-hidden="true"></span>
+								<span class="hide">twitter</span>
+							</a>
+						</div>
+						<div class="icon">
+							<a href="//www.youtube.com/floridaatlanticu" target="_blank" rel="noreferrer" aria-label="FAU Youtube Channel">
+								<span class="fa fa-youtube-play" aria-hidden="true"></span>
+								<span class="hide">youtube</span>
+							</a>
+						</div>
+						<div class="icon">
+							<a href="//instagram.com/FloridaAtlantic" target="_blank" rel="noreferrer" aria-label="FAU on Instagram">
+								<span class="fa fa-instagram"></span>
+								<span class="hide">instagram</span>
+							</a>
+						</div>
+						<div class="icon">
+							<a href="//www.linkedin.com/school/florida-atlantic-university/" target="_blank" rel="noreferrer" aria-label="FAU on LinkedIn">
+								<span class="fa fa-linkedin-square"></span>
+								<span class="hide">linkedin</span>
+							</a>
+						</div>
+					</div>
+				</div>
+				<!--//social-->
+				
+				<!--buttons-->
+				<div class="footer-buttons">
+					<ul>
+						<li><a href="https://www.fau.edu/programs/">Search Programs</a></li>
+						<li><a href="https://www.fau.edu/info/">Request Info</a></li>
+						<li><a href="https://www.fau.edu/visit/">Visit Our Campuses</a></li>
+					</ul>
+				</div>
+				<!--//buttons-->
+			</div>
+
+			<div class="footer-text">Florida Atlantic University embodies a culture of strategic and collaborative community engagement that results in mutual benefit to the institution and the diverse internal and external communities that it serves.</div>
+			<div class="footer-bottom">
+				<div class="footer-copyRight order-2 order-lg-1"><span id="directedit"></span> 2023 Florida Atlantic University</div>
+				<div class="footer-links order-1 order-lg-2">
+					<ul class="links">
+						<li><a href="https://www.fau.edu/privacypolicy/">Privacy Policy</a></li>
+						<li><a href="https://www.fau.edu/policies/policies-regulations/">Regulations &amp; Policies</a></li>
+						<li><a href="https://www.fau.edu/finaid/resources/other-resources/#consumer-info">Consumer Information</a></li>
+						<li><a href="https://fau.edu/jobs/" target="_blank" rel="noreferrer">Employment Opportunities</a></li>
+						<li><a href="https://onestop.fau.edu/">Get Help</a></li>
+						<li><a href="https://www.fau.edu/about/site-index.php">Site Index</a></li>
+						<li><a href="https://www.fau.edu/sas/">Accessibility</a></li>
+						<li><a href="https://www.fau.edu/public-affairs/media-relations/public-records/">Public Records</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>  
+	</div>
+</footer>
+
+<div class="page-overlay"></div>      
+   </div>
+   <script type="text/javascript" src="/_resources/js/directedit.js">//</script>
+<a id="de" href="https://a.cms.omniupdate.com/11/?skin=fau&amp;account=chordata&amp;site=Primary&amp;action=de&amp;path=/public-affairs/branding/visual-standards/index.pcf" title="OmniUpdate">© </a><!-- ouc:info uuid="e7bf0559-a6bc-47b3-ba69-79b1abfb642c"/ --></body></html>
