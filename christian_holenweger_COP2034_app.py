@@ -3,8 +3,6 @@ from PIL import Image
 import cv2
 import numpy as np
 
-sys.executable
-
 # Set page title and icon
 st.set_page_config(page_title="Image Filters", page_icon=":camera:")
 
