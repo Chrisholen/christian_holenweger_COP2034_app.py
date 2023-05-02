@@ -1,6 +1,7 @@
 import streamlit as st
 from PIL import Image
 import numpy as np
+import os
 
 # App Name and Description
 st.sidebar.title('Filters change pictures')
@@ -9,9 +10,18 @@ st.sidebar.write('Web App created using Python Streamlit library. This app suppo
 
 
 # Full Name, Project, and Due Date
-st.title("Christian_Holenweger_COP2034_app.py!")
+st.title("Christian_Holenweger_COP2034_app.py")
 st.write("Final Project COP2034")
 st.write("Due Date: 05/03/2023")
 
 # File uploader
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
+
+# Get the path to the image file
+image_path = os.path.join(os.getcwd(), "image", "fau_owl.png")
+
+# Load the image
+image = Image.open(image_path)
+
+# Display the image
+st.image(image, caption='FAU Owl Logo', use_column_width=True)
