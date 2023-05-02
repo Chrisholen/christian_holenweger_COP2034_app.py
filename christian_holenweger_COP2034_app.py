@@ -17,7 +17,7 @@ st.title("Due Date: 05/03/2023")
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
 
 # Set the file path to the FAU logo PNG file in your pictures directory
-file_path = "C:\Users\Christian Holenweger\pictures\directory\fau_logo.png"
+file_path = "C:/Users/Christian Holenweger/pictures/directory/fau_logo.png"
 
 # Use PIL to open the image file
 image = Image.open(file_path)
