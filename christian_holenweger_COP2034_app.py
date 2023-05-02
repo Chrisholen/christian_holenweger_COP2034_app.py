@@ -1,8 +1,7 @@
 import streamlit as st
 from PIL import Image, ImageFilter
 import io
-
-import streamlit as st
+from PIL import Image
 
 # App Name and Description
 st.sidebar.title("Filters on filters")
@@ -16,7 +15,6 @@ st.write("Project: Filters on Filters")
 st.write("Due Date: 05/03/2023")
 
 # FAU owl logo
-from PIL import Image
 image = Image.open('fau-owl.png')
 st.sidebar.image(image, caption='', use_column_width=True)
 
