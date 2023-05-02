@@ -10,8 +10,8 @@ st.sidebar.write('Web App created using Python Streamlit library. This app suppo
 
 # Full Name, Project, and Due Date
 st.title("Christian_Holenweger_COP2034_app.py")
-st.write("Final Project COP2034")
-st.write("Due Date: 05/03/2023")
+st.title("Final Project COP2034")
+st.title("Due Date: 05/03/2023")
 
 # File uploader
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
