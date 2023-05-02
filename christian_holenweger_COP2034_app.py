@@ -4,6 +4,7 @@ import numpy as np
 from PIL import Image
 import cv2
 import sys
+print(sys.executable)
 sys.path.append('/usr/local/lib/python3.9/site-packages')
 sys.path.append('\env\Lib\site-packages')
 
